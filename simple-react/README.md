@@ -15,3 +15,10 @@ npm i react react-dom
 
 Добавляем webpack.config.js
 
+Добавляем папку src и в нее:
+index.js
+index.html
+App.js
+App.css
+
+Использовалась статья: https://nuancesprog.ru/p/2222/
