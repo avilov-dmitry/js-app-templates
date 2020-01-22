@@ -26,5 +26,8 @@ module.exports = {
         new HTMLWebpackPlugin({
             template: "./assets/index.html"
         })
-    ]
+    ],
+    devServer: {
+        port: 10000
+    }
 };
