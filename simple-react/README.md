@@ -2,7 +2,7 @@
 npm init
 
 Установка DEV зависимостей:
-npm i -D webpack webpack-cli webpack-dev-server babel-loader @babel/core @babel/preset-env @babel/preset-react style-loader css-loader html-webpack-plugin
+npm i -D webpack webpack-cli webpack-dev-server babel-loader @babel/core @babel/preset-env @babel/preset-react style-loader css-loader html-webpack-plugin prettier lint-staged husky
 
 Установка общих зависимостей:
 npm i react react-dom
